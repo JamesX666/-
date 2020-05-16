@@ -1,3 +1,2 @@
-# hello-world
-Just another respository
-123
+# 学习记录
+5.16 字符串学习、背单词、markdown学习
